@@ -1,3 +1,6 @@
+AUTHOR--- PRANAV RANJAN
+
+
 # Symptom-Checker
   The Symptom Checker is a simple tool that helps users identify possible conditions based on common symptoms such as fever, cough, headache, vomiting, stomach pain, stress, and sore throat.
 It is intended for basic educational or demonstration purposes only and not as a substitute for professional medical advice.
@@ -74,7 +77,6 @@ sore throat
 4. Test multiple combinations to see different outputs
 
 
+screenshot---------
+<img width="980" height="922" alt="image" src="https://github.com/user-attachments/assets/907fbe0d-4ff4-4106-8ec6-32df0e76fec0" />
 
-   Disclaimer
-
-This tool is for educational and demonstration purposes only. It is not intended to provide medical advice. For real health concerns, consult a qualified healthcare professional.
